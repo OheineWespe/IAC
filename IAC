@@ -1,0 +1,51 @@
+Faglig innhold
+
+    Lær gode og kjente praksiser og bransjestandarder som sikrer effektive og vedlikeholdbare implementeringer av IaC (Infrastructure as Code).
+    Bruk av kjente verktøy for tilrettelegging av infrastruktur, vil stå i sentrum for fagets praktiske gjennomføring
+    Sett teori ut i praksis ved å implementere konsepter lært fra kursmateriell.
+    Praktisk erfaring med en offentlig skytilbyder, der vi oppretter, endrer og administrerer infrastrukturressurser ved bruk av kode.
+
+
+Læringsutbytte
+
+Kunnskap: Studenten har
+
+    kunnskap om hvordan infrastruktur kan administreres som kode ved bruk av samme prinsipper som ved programvareutvikling
+    kunnskap om begreper, prosesser og verktøy som anvendes i Infrastructure as Code (Iac)
+    innsikt i de største offentlige skyløsninger hvor det benyttes IaC
+    kunnskap til forskjellige verktøy innen IaC og hvor og hvordan vi kan benytte disse
+
+Ferdigheter: Studenten kan
+
+    provisjoner og administrer IT-Infrastruktur ved bruk av kode
+    anvende verktøy for å utvikle og kjøre versjonskontroll mot kode
+    gjøre rede for sine faglige valg rundt bruk av IaC
+    finne og henvise til informasjon og fagstoff og vurdere relevansen for problemstillinger som kan løses ved bruk av IaC
+    introdusere endringer i et produksjonsmiljø gjennom versjonskontrollert repositories og testmiljøer
+    anvende kode til å utføre enkle og repeterende operasjoner i et datasenter eller offentlig skytilbyder
+
+Generell kompetanse: Studenten
+
+    kan planlegge og gjennomføre yrkesrettede arbeidsoppgaver og prosjekter alene og som deltaker i gruppe og i tråd med etiske krav og retningslinjer innen IaC
+    har innsikt i hvordan utvikling og drift forenes i DevOps-filosofien.
+    har innsikt i hvordan en feilsøker infrastrukturer ved bruk av infrastruktur som kode
+
+Læringsformer og aktiviteter
+
+    Forelesninger
+    Skriftlige ressurser
+    Nettressurser
+    Laboppgaver og problemløsning
+
+Obligatoriske aktiviteter
+
+    Øvinger
+
+
+Mer om vurdering
+
+Obligatoriske arbeidskrav (øvinger) må være godkjent for å få gå opp til eksamen.
+
+2 til 4 obligatoriske øvinger i løpet semesteret. Nærmere informasjon og nøyaktig antall presiseres ved semesterstart.
+
+Utsatt eksamen i august
